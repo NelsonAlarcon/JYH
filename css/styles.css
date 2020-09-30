@@ -424,6 +424,7 @@ footer {
 }
 .card a:hover {
   background-color: #700101;
+scale:1.05;
 }
 
 @media (max-width: 768px) {
